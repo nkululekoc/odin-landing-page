@@ -130,7 +130,7 @@ h2 {
 .contact {
   display: flex;
   justify-content: center;
-  /* margin: 100px 180px; */
+  margin-bottom: 100px;
 }
 
 .contact-cta {
